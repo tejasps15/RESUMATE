@@ -1,6 +1,6 @@
 #  RESUMATE – Resume & Career Intelligence Platform
 
-**[Live Demo](https://resumate-jz6gkxphygigepefxadqfm.streamlit.app)**
+**[🌐 Live Demo](https://resumate-jz6gkxphgyigepefxadqfm.streamlit.app/)**
 
 ## Overview
 
